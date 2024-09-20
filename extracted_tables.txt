@@ -1,0 +1,97 @@
+File: Detailed_Statement-10_07_2024 (1).pdf
+Page 1, Table 1
+Vehicle details
+Registration Class State
+CCG663 CAR VIC
+1AI5RR CAR VIC
+Tag details
+Tagno Class
+201307624225 CAR
+221904111228 CAR
+
+
+Page 1, Table 2
+Totopupyouraccount
+Savetimeandhassle
+Topuponlineatlinkt.com.au/myaccount Setupautopaymentstosavetimeand
+hasslewhenyourbalanceisrunninglow.
+Makeaquick,easycreditordebitcardpaymenttokeepyour
+Logintoyouraccountandselect
+accountactiveandcoverfuturetravel.
+Setupautopaymentstochoosethe
+topupamountthatsrightforyou.
+OrusetheLinktapponiOSandAndroiddevices
+
+
+
+File: Feb 2022ST.pdf
+Page 1, Table 1
+Statement
+For Use of Electronic Toll Facilities
+Transport for NSW E-Toll Customer Service team
+ABN:18 804 239 602 PO Box 1447
+Parramatta NSW 2124
+Ph 13 18 65
+Account No: 8517864
+MR BEN GOTTO SMITH
+7/595 NEW SOUTH HEAD ROAD
+ROSE BAY NSW 2029 Statement for
+1 January 2022 to 28 February 2022
+Are your contact details correct? Please ensure the phone number,
+postal and email address details on your E-Toll account are accurate.To
+review or update your account information, log in at
+myetoll.transport.nsw.gov.au or call 13 18 65.
+
+
+Page 1, Table 2
+	
+E-Toll Customer Service team	
+PO Box 1447	
+Parramatta NSW 2124	
+Ph	13 18 65
+	
+
+
+Page 1, Table 3
+Statement	
+For Use of Electronic Toll Facilities	
+Transport for NSW	
+ABN:	18 804 239 602
+
+
+Page 1, Table 4
+
+MR BEN GOTTO SMITH
+7/595 NEW SOUTH HEAD ROAD
+ROSE BAY NSW 2029
+
+
+
+Page 1, Table 5
+Account No:	8517864
+
+
+Page 1, Table 6
+Statement for
+1 January 2022 to 28 February 2022
+
+
+Page 1, Table 7
+Statement Summary
+Date Description Reference DR $ CR $
+31/12/2021 BALANCE TRANSFERRED FROM PREVIOUS PERIOD 60.81
+18/01/2022 MONTHLY ACCOUNT MANAGEMENT FEE 2288482177 1.25
+11/02/2022 MONTHLY ACCOUNT MANAGEMENT FEE 2301349246 1.25
+11/02/2022 BANK - AUTO REFILL TRANSACTION 2301362337 40.00
+28/02/2022 TOTAL FOR USE OF TOLL FACILITIES 25.77
+28/02/2022 BALANCE CARRIED FORWARD 72.54	
+Summary use of toll facilities
+Tag No Reference Total $
+10904603 25.77	
+Detailed use of toll facilities
+Date & Time Place Lane Toll $
+Tag No: 10904603
+14/01/2022 15:55:47 SACL2-2J 01 8.65
+29/01/2022 19:23:19 ED-C 01 8.56
+10/02/2022 15:08:04 ED-C 01 8.56
+Total for Tag $ 25.77	
